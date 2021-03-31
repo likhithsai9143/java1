@@ -16,6 +16,3 @@ steps:
       javac Sum.java
       
       java Sum
-      
-      5
-      10
